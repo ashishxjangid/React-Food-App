@@ -46,7 +46,7 @@
 }
 
 .filter-btn {
-    margin: 15px;
+    margin: 10px;
     cursor: pointer;
 }
 
@@ -60,4 +60,15 @@
     height: 400px;
     background-color:#f0f0f0;
     margin: 10px;
+}
+
+.login {
+    margin: 10px 15px;
+    cursor: pointer;
+    background-color: orange;
+    color: white;
+}
+
+.filter {
+    display: flex;
 }
